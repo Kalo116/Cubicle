@@ -1,4 +1,5 @@
-[{
+[
+    {
         "name": "Gan356 Air SM",
         "imageUrl": "https://ae01.alicdn.com/kf/HTB1CSddXRxRMKJjy0Fdq6yifFXa6/Gan-356-Air-SM-3x3-Black-Magic-cube-GAN-Air-SM-Magnetic-3x3x3-Speed-cube-gans.jpg",
         "difficultyLevel": 3
@@ -12,5 +13,11 @@
         "name": "Pyraminx",
         "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61izOzq%2BBAL._SY355_.jpg",
         "difficultyLevel": 1
+    },
+    {
+        "name": "Kala",
+        "description": "111",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/NHMB-Anthrolopogical-reconstruction-of-the-head-of-Tsar-Kaloyan-by-Prof.Yordan-Yordanov.jpg/220px-NHMB-Anthrolopogical-reconstruction-of-the-head-of-Tsar-Kaloyan-by-Prof.Yordan-Yordanov.jpg",
+        "difficultyLevel": "5"
     }
 ]
