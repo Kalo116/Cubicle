@@ -1,6 +1,7 @@
 const express = require('express');
 const hbs = require('express-handlebars');
 const routes = require('./routes');
+
 const app = express();
 
 app.use('/static', express.static('public'));
